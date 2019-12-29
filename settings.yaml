@@ -1,6 +1,16 @@
 general:
   label: 基本设置
   items:
+    background_color: 
+      name: background_color
+      label: 背景配色
+      type: color
+      default: '#FFFFFF'
+    main_container_color: 
+      name: main_container_color
+      label: 文章配色
+      type: color
+      default: '#FFFFFF'      
     sidebar_title:
       name: sidebar_title
       label: 侧边栏标题

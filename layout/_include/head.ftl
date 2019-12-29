@@ -57,7 +57,7 @@
         })(document);  -->
     </script>
     <@global.statistics />
-
+    <#include "decorate.ftl">
     <noscript>
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora|Montserrat|Anonymous+Pro:400|Material+Icons"/>
     </noscript>
