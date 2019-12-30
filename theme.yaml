@@ -1,8 +1,8 @@
-id: SumiMakito_Journal
-name: Journal
+id: halo_theme_journal_xs
+name: journal_xs
 author:
-  name: SumiMakito
-  website: https://keep.moe
+  name: nashen
+  website: https://github.com/SumiMakito/hexo-theme-journal
 description: '隻言片語・於此匯聚 – Moments piled up.'
 logo: https://avatars3.githubusercontent.com/u/5277268?s=460&v=4
 website: https://github.com/SumiMakito/hexo-theme-journal
